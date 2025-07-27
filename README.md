@@ -4,6 +4,8 @@
 This auto installer script by Najm Tunnel.
 </h2>
 
+<h2 align="center" style="color:#fff;background:#1b232e;padding:16px 0 14px 0;border-radius:12px;"> 🔗 <span style="color:#ffd700;background:transparent;font-weight:bold;">Info Lebih Lanjut:</span> <a href="http://scriptvpn.meiyu.my.id" style="color:#ffd700;background:transparent;font-weight:bold;text-decoration:underline;">http://scriptvpn.meiyu.my.id</a> </h2> <br>
+
 <h2 align="center">
 Auto Script Install XRAY/SSH Websocket Service
 <img src="https://img.shields.io/badge/Release-v3.0-red.svg"></h2>
